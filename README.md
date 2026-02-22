@@ -34,7 +34,7 @@ Passionate about clean architecture, problem-solving, and continuous growth as a
 
 ## 💻 Featured Projects
 
-**Coffee Joy** – Responsive landing page for a coffee brand.  
+**Coffee Joy** – Responsive landing page for a coffee shop!.  
 Live demo: [Coffee Joy](https://tearedit.github.io/suicide-squad-project-1/)  
 Role: Scrum Master & Hero section developer  
 Tech: HTML5 | CSS3 | JavaScript | Agile/Scrum
