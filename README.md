@@ -1,38 +1,57 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=450&lines=Hi,+I'm+Vasilisa+👋;Junior+Full-Stack+Developer" alt="Typing SVG"/>
 </p>
-
 <p align="center">
-  React • Next.js • TypeScript
-</p>
-
-<p align="center">
-  Building modern, responsive web applications with clean code and scalable architecture.  
-  Open to Junior Full-Stack roles and internship opportunities worldwide.
+  <sub> React • Next.js • Node.js • TypeScript</sub>
 </p>
 
 ---
 
-<p align="center">
-  <!-- Tech badges -->
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" alt="Git"/>
+<p>
+Junior Full-Stack Developer focused on building modern web applications with React, Next.js, Node.js, and TypeScript.
+
+Experienced in collaborative team projects following Agile/Scrum methodology, including serving as a Scrum Master — facilitating communication, organizing workflows, and supporting efficient project delivery.
+
+Passionate about clean architecture, problem-solving, and continuous growth as a full-stack developer.
 </p>
 
 ---
 
-<p align="center">
-  🌍 Open To: Junior Full-Stack Developer positions | Internship opportunities | Remote collaboration
-</p>
+## 🛠 Tech Stack
 
 <p align="center">
-  📫 Contact: 
-  <a href="https://www.linkedin.com/in/vasilisa-bychkova/">LinkedIn</a> | 
-  <a href="mailto:vasilisa.bychkova.fs@gmail.com">Email</a>
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
+</p>
+
+---
+
+## 🗣 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/English-Intermediate_(B1–B2)-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square"/>
+</p>
+
+
+---
+
+
+## 📫 Contact Me
+  <p align="center">
+  <a href="https://www.linkedin.com/in/vasilisa-bychkova/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:vasilisa.bychkova.fs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+<p align="center">
+  💬 Feel free to connect — I'm always open to collaboration and new opportunities.
 </p>
