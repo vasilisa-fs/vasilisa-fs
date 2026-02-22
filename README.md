@@ -39,7 +39,7 @@ Live demo: [Coffee Joy](https://tearedit.github.io/suicide-squad-project-1/)
 Role: Scrum Master & Hero section developer  
 Tech: HTML5 | CSS3 | JavaScript | Agile/Scrum
 
-**Hatynka Lapok** – Responsive landing page for an animal shelter.   
+**Khatynka Lapok** – Responsive landing page for an animal shelter.   
 Live demo: [Hatynka Lapok](https://viktor-yashchuk.github.io/No-Bugs-Just-Pugs/)  
 Role: Header/Mobile Menu section developer  
 Tech: HTML5 | CSS3 | JavaScript | Agile/Scrum
