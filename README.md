@@ -32,6 +32,20 @@ Passionate about clean architecture, problem-solving, and continuous growth as a
 
 ---
 
+## 💻 Featured Projects
+
+**Coffee Joy** – Responsive landing page for a coffee brand.  
+Live demo: [Coffee Joy](https://tearedit.github.io/suicide-squad-project-1/)  
+Role: Scrum Master & Hero section developer  
+Tech: HTML5 | CSS3 | JavaScript | Agile/Scrum
+
+**Hatynka Lapok** – Responsive landing page for an animal shelter.   
+Live demo: [Hatynka Lapok](https://viktor-yashchuk.github.io/No-Bugs-Just-Pugs/)  
+Role: Header/Mobile Menu section developer  
+Tech: HTML5 | CSS3 | JavaScript | Agile/Scrum
+
+---
+
 ## 🗣 Languages
 
 <p align="center">
@@ -39,9 +53,7 @@ Passionate about clean architecture, problem-solving, and continuous growth as a
   <img src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square"/>
 </p>
 
-
 ---
-
 
 ## 📫 Contact Me
   <p align="center">
