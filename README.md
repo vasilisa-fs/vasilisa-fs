@@ -40,7 +40,7 @@ Role: Scrum Master & Hero section developer
 Tech: HTML5 | CSS3 | JavaScript | Agile/Scrum
 
 **Khatynka Lapok** – Responsive landing page for an animal shelter.   
-Live demo: [Hatynka Lapok](https://viktor-yashchuk.github.io/No-Bugs-Just-Pugs/)  
+Live demo: [Khatynka Lapok](https://viktor-yashchuk.github.io/No-Bugs-Just-Pugs/)  
 Role: Header/Mobile Menu section developer  
 Tech: HTML5 | CSS3 | JavaScript | Agile/Scrum
 
